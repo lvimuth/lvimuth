@@ -37,7 +37,7 @@ I'm an AI and Machine Learning Engineer with 3 years of experience. My journey h
 - **Predictive Modeling of Air Quality Index (AQI)**: Built ML models to predict AQI using temporal and meteorological data
 - **Security Gate Automation with ALPR**: Created a license plate recognition system using YOLO and CNN
 - **Real-time Attendance Management System**: Implemented a system using Firebase Realtime Database and Authentication
-- **Publications**: Contributed to research papers on lung cancer detection and prediction using image processing
+- **Publications**: Contributed to research papers on IEEE <a href="https://ieeexplore.ieee.org/document/9664658">Lung Cancer Detection and Prediction Stages using Image Processing</a>
 
 ## 🌐 Connect with Me
 
