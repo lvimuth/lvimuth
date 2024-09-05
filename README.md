@@ -10,8 +10,8 @@ I'm an AI and Machine Learning Engineer with 3 years of experience. My journey h
 
 - 🌍 Living in Abu Dhabi, United Arab Emirates
 - 💼 Currently working as an IoT Embedded Systems Engineer at Sparklo General Machineries LLC
-- 🎓 MSc in Artificial Intelligence from the University of Moratuwa (2024-2025)
-- 🎓 BSc (Hons) in Electrical and Telecommunication Engineering from the South Eastern University of Sri Lanka (2016-2022)
+- 🎓 MSc in Artificial Intelligence from the University of Moratuwa 
+- 🎓 BSc (Hons) in Electrical and Telecommunication Engineering from the South Eastern University of Sri Lanka
 
 ## 💻 Languages & Tools
 
